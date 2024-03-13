@@ -1,0 +1,28 @@
+.main{
+    background-color: #31363F;
+    padding-top: 80px;
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.titleCtn{
+    background-color: #222831;
+    width: 90vw;
+    height: 100px;
+    border-radius: 20px;
+    color: #EEEEEE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.cardCtn{
+    width: 100%;
+    min-height: 80vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
